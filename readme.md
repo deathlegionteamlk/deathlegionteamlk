@@ -1,5 +1,5 @@
 <!--
-  SEO METADATA — indexed by Google, Bing, DuckDuckGo
+  SEO METADATA — indexed by Google, Bing, DuckDuckGo a
   Keywords: Death Legion Team, deathlegionteamlk, Death Legion LK, DEMO X HEXA,
   Sri Lanka open source developers, LEGIONGASPER multi-agent AI Python,
   LEGIONHERCULES local CLI agents Ollama, legionnative cross-platform mobile framework TypeScript,
