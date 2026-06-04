@@ -23,7 +23,7 @@
 [![GitHub Profile - deathlegionteamlk](https://img.shields.io/badge/GitHub-deathlegionteamlk-A855F7?style=for-the-badge&logo=github&logoColor=white)](https://github.com/deathlegionteamlk)
 [![Repositories](https://img.shields.io/badge/Public%20Repos-24-6366F1?style=for-the-badge&logo=github&logoColor=white)](https://github.com/deathlegionteamlk?tab=repositories)
 [![Location](https://img.shields.io/badge/Sri%20Lanka-%F0%9F%87%B1%F0%9F%87%B0-22C55E?style=for-the-badge)](https://github.com/deathlegionteamlk)
-[![Student](https://img.shields.io/badge/Student-Don%20Pedrick%20College%20Horana-8B5CF6?style=for-the-badge&logo=github&logoColor=white)](https://education.github.com)
+
 [![License](https://img.shields.io/badge/All%20Projects-MIT%20License-F59E0B?style=for-the-badge&logo=opensourceinitiative&logoColor=white)](https://github.com/deathlegionteamlk)
 
 [![LEGIONGASPER](https://img.shields.io/badge/LEGIONGASPER-Multi--Agent%20AI-FF2D20?style=for-the-badge&logo=python&logoColor=white)](https://github.com/deathlegionteamlk/LEGIONGASPER)
