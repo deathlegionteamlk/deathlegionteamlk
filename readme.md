@@ -21,13 +21,15 @@
 <br/><br/>
 
 [![GitHub Profile - deathlegionteamlk](https://img.shields.io/badge/GitHub-deathlegionteamlk-A855F7?style=for-the-badge&logo=github&logoColor=white)](https://github.com/deathlegionteamlk)
-[![Repositories](https://img.shields.io/badge/Public%20Repos-3-6366F1?style=for-the-badge&logo=github&logoColor=white)](https://github.com/deathlegionteamlk?tab=repositories)
+[![Repositories](https://img.shields.io/badge/Public%20Repos-24-6366F1?style=for-the-badge&logo=github&logoColor=white)](https://github.com/deathlegionteamlk?tab=repositories)
 [![Location](https://img.shields.io/badge/Sri%20Lanka-%F0%9F%87%B1%F0%9F%87%B0-22C55E?style=for-the-badge)](https://github.com/deathlegionteamlk)
+[![Student](https://img.shields.io/badge/Student-Don%20Pedrick%20College%20Horana-8B5CF6?style=for-the-badge&logo=github&logoColor=white)](https://education.github.com)
 [![License](https://img.shields.io/badge/All%20Projects-MIT%20License-F59E0B?style=for-the-badge&logo=opensourceinitiative&logoColor=white)](https://github.com/deathlegionteamlk)
 
 [![LEGIONGASPER](https://img.shields.io/badge/LEGIONGASPER-Multi--Agent%20AI-FF2D20?style=for-the-badge&logo=python&logoColor=white)](https://github.com/deathlegionteamlk/LEGIONGASPER)
 [![LEGIONHERCULES](https://img.shields.io/badge/LEGIONHERCULES-Local%20CLI%20Agents-A855F7?style=for-the-badge&logo=python&logoColor=white)](https://github.com/deathlegionteamlk/LEGIONHERCULES)
 [![legionnative](https://img.shields.io/badge/legionnative-Mobile%20Framework-6363FF?style=for-the-badge&logo=typescript&logoColor=white)](https://github.com/deathlegionteamlk/legionnative)
+[![Awesome LK Devs](https://img.shields.io/badge/Awesome-LK%20Developers-EC4899?style=for-the-badge&logo=github&logoColor=white)](https://github.com/deathlegionteamlk/awesome-srilankan-devs)
 
 <br/>
 
@@ -61,11 +63,11 @@
 
 <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="300" align="right" alt="Death Legion Team DEMO X HEXA"/>
 
-**Death Legion Team** (GitHub: **deathlegionteamlk**) is an open source group from **Sri Lanka**, building under the name **DEMO × HEXA**.
+**Death Legion Team** (GitHub: **deathlegionteamlk**) is an open source group from **Sri Lanka**, building under the name **DEMO × HEXA**. Currently a student at **Don Pedrick College, Horana**, building tools that bridge academic learning with real-world engineering.
 
 We've shipped apps with most of the popular frameworks, ran into the same walls every time, and eventually stopped complaining and started building. That's the whole origin story.
 
-Three projects so far. **LEGIONGASPER** is a Python multi-agent AI system that coordinates parallel agents using a captain-agent pattern. **LEGIONHERCULES** is a local CLI agent framework that runs entirely on your own hardware via Ollama — no API keys, no cloud, no billing surprises. **legionnative** is a cross-platform mobile framework in TypeScript with a Rust core, built because we were tired of 3-second cold starts and bundles that ballooned with every dependency.
+24 public repos so far — spanning AI agents, OS kernels, mobile frameworks, game mods, and CLI tools. **LEGIONGASPER** is a Python multi-agent AI system that coordinates parallel agents using a captain-agent pattern. **LEGIONHERCULES** is a local CLI agent framework that runs entirely on your own hardware via Ollama — no API keys, no cloud, no billing surprises. **legionnative** is a cross-platform mobile framework in TypeScript with a Rust core, built because we were tired of 3-second cold starts and bundles that ballooned with every dependency.
 
 All three are MIT licensed. All three are built in public. All three exist because we needed them and nothing out there did the job.
 
@@ -419,6 +421,30 @@ export default function App() {
 All three projects are actively maintained. PRs welcome. Bug reports too — especially ones with reproduction steps.
 
 Check the `CONTRIBUTING.md` in each repo before opening a PR. Mostly so we don't duplicate work.
+
+---
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3" width="100%"/>
+
+## <img src="https://img.icons8.com/fluency/32/trophy.png" width="24"/> GitHub Achievements
+
+<div align="center">
+
+| Badge | Achievement | Status |
+|:---:|:---|:---:|
+| 🏃 | **Quickdraw** | Closed issue within 5 min |
+| 🦈 | **Pull Shark** | 2+ pull requests merged |
+| 🚀 | **YOLO** | Merged PR without review |
+| 👥 | **Pair Extraordinaire** | Co-authored commits merged |
+| 🧠 | **Galaxy Brain** | 2 accepted discussion answers |
+| ❤️ | **Heart On Your Sleeve** | Reacted to community discussions |
+| ⭐ | **Starstruck** | *(in progress)* 16+ stars on a repo |
+| 💝 | **Public Sponsor** | *(in progress)* GitHub Sponsors |
+
+[![GitHub Profile](https://img.shields.io/badge/View%20Profile-deathlegionteamlk-A855F7?style=for-the-badge&logo=github&logoColor=white)](https://github.com/deathlegionteamlk)
+[![Student Pack](https://img.shields.io/badge/Apply%20for-Student%20Developer%20Pack-8B5CF6?style=for-the-badge&logo=github&logoColor=white)](https://education.github.com/pack)
+
+</div>
 
 <div align="center">
 
