@@ -1,11 +1,14 @@
 <!--
-  SEO METADATA — indexed by Google, Bing, DuckDuckGo a
+  SEO METADATA — indexed by Google, Bing, DuckDuckGo and all search engines
   Keywords: Death Legion Team, deathlegionteamlk, Death Legion LK, DEMO X HEXA,
+  Dark Tech Zone, Dark Knight, UDMODZ, Chamod Tech,
   Sri Lanka open source developers, LEGIONGASPER multi-agent AI Python,
   LEGIONHERCULES local CLI agents Ollama, legionnative cross-platform mobile framework TypeScript,
   Death Legion GitHub, Death Legion Sri Lanka coders, autonomous AI agents open source,
   local LLM CLI tool Python, mobile framework TypeScript Rust Sri Lanka,
-  deathlegionteamlk GitHub profile, Death Legion Team LK open source
+  deathlegionteamlk GitHub profile, Death Legion Team LK open source,
+  DarkTechZone, ChamodTech, DarkKnight, Legion, Leorch, LegionBFOS,
+  Sri Lanka cyber security, Sri Lanka game dev, Sri Lanka AI agents
 -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=240&section=header&text=DEATH%20LEGION%20TEAM&fontSize=56&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=DEMO%20%C3%97%20HEXA%20%E2%80%94%20Sri%20Lanka%20%F0%9F%87%B1%F0%9F%87%B0%20%E2%80%94%20Open%20Source%20Builders&descAlignY=58&descSize=17&descColor=a78bfa" width="100%" alt="Death Legion Team — Open Source Developers from Sri Lanka"/>
@@ -30,6 +33,11 @@
 [![LEGIONHERCULES](https://img.shields.io/badge/LEGIONHERCULES-Local%20CLI%20Agents-A855F7?style=for-the-badge&logo=python&logoColor=white)](https://github.com/deathlegionteamlk/LEGIONHERCULES)
 [![legionnative](https://img.shields.io/badge/legionnative-Mobile%20Framework-6363FF?style=for-the-badge&logo=typescript&logoColor=white)](https://github.com/deathlegionteamlk/legionnative)
 [![Awesome LK Devs](https://img.shields.io/badge/Awesome-LK%20Developers-EC4899?style=for-the-badge&logo=github&logoColor=white)](https://github.com/deathlegionteamlk/awesome-srilankan-devs)
+
+[![Dark Tech Zone](https://img.shields.io/badge/Dark%20Tech%20Zone-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/deathlegionteamlk)
+[![UDMODZ](https://img.shields.io/badge/UDMODZ-FF4500?style=for-the-badge&logo=github&logoColor=white)](https://github.com/deathlegionteamlk)
+[![Dark Knight](https://img.shields.io/badge/Dark%20Knight-4B0082?style=for-the-badge&logo=github&logoColor=white)](https://github.com/deathlegionteamlk)
+[![Chamod Tech](https://img.shields.io/badge/Chamod%20Tech-00CED1?style=for-the-badge&logo=github&logoColor=white)](https://github.com/deathlegionteamlk)
 
 <br/>
 
@@ -63,7 +71,7 @@
 
 <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="300" align="right" alt="Death Legion Team DEMO X HEXA"/>
 
-**Death Legion Team** (GitHub: **deathlegionteamlk**) is an open source group from **Sri Lanka**, building under the name **DEMO × HEXA**. Currently a student at **Don Pedrick College, Horana**, building tools that bridge academic learning with real-world engineering.
+**Death Legion Team** (GitHub: **deathlegionteamlk**) is an open source group from **Sri Lanka**, building under the name **DEMO × HEXA**. Also known across the community as **Dark Tech Zone**, **Dark Knight**, **UDMODZ**, and **Chamod Tech** — pushing the boundaries of AI agents, OS kernels, mobile frameworks, and cybersecurity tools.
 
 We've shipped apps with most of the popular frameworks, ran into the same walls every time, and eventually stopped complaining and started building. That's the whole origin story.
 
@@ -442,7 +450,7 @@ Check the `CONTRIBUTING.md` in each repo before opening a PR. Mostly so we don't
 | 💝 | **Public Sponsor** | *(in progress)* GitHub Sponsors |
 
 [![GitHub Profile](https://img.shields.io/badge/View%20Profile-deathlegionteamlk-A855F7?style=for-the-badge&logo=github&logoColor=white)](https://github.com/deathlegionteamlk)
-[![Student Pack](https://img.shields.io/badge/Apply%20for-Student%20Developer%20Pack-8B5CF6?style=for-the-badge&logo=github&logoColor=white)](https://education.github.com/pack)
+[![Open Source](https://img.shields.io/badge/Open%20Source-MIT%20Licensed-22C55E?style=for-the-badge&logo=opensourceinitiative&logoColor=white)](https://github.com/deathlegionteamlk)
 
 </div>
 
@@ -509,11 +517,12 @@ Check the `CONTRIBUTING.md` in each repo before opening a PR. Mostly so we don't
 <br/>
 
 <sub>
-Death Legion Team · deathlegionteamlk · DEMO X HEXA · Sri Lanka open source developers ·
-LEGIONGASPER multi-agent AI system Python FastAPI · LEGIONHERCULES local CLI agents Ollama ·
-legionnative cross-platform mobile framework TypeScript Rust · Death Legion LK GitHub ·
-autonomous AI agents open source · local LLM CLI Python · mobile framework Sri Lanka ·
-Death Legion Team open source projects · deathlegionteamlk GitHub profile
+Death Legion Team · deathlegionteamlk · DEMO X HEXA · Dark Tech Zone · UDMODZ · Dark Knight · Chamod Tech ·
+Sri Lanka open source developers · LEGIONGASPER multi-agent AI system Python FastAPI ·
+LEGIONHERCULES local CLI agents Ollama · legionnative cross-platform mobile framework TypeScript Rust · Death Legion LK GitHub ·
+autonomous AI agents open source · local LLM CLI Python · mobile framework Sri Lanka · Leorch Rust ·
+Death Legion Team open source projects · deathlegionteamlk GitHub profile · DarkTechZone · ChamodTech ·
+Sri Lanka cyber security · Sri Lanka game dev · Sri Lanka AI agents · LegionBFOS · Brainfuck OS kernel
 </sub>
 
 </div>
