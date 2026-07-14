@@ -110,3 +110,6 @@ We are a **Sri Lankan cyber team** building next-gen developer tools, AI agents,
 
 ⭐ From [Death Legion Team](https://github.com/deathlegionteamlk) · Built with ❤️ in Sri Lanka 🇱🇰
 
+<!-- DL Code Badge -->
+![Status](https://img.shields.io/badge/status-active-success?style=flat-square)
+
