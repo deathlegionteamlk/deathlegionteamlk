@@ -33,6 +33,10 @@ open source contributors Sri Lanka, indie dev collective, hacker collective Sri 
 
 <img src="https://komarev.com/ghpvc/?username=deathlegionteamlk&label=Profile%20Views&color=8A2BE2&style=for-the-badge" />
 
+<br/><br/>
+
+<img src="https://user-images.githubusercontent.com/74038190/212751818-13da6fd2-27ca-45c4-9c64-3940ccfa6fd3.gif" width="320"/>
+
 </div>
 
 <br/>
@@ -91,6 +95,29 @@ We're not a "pick one stack and master it" kind of team. Every repo in this org 
 <img src="https://img.shields.io/badge/erlang-A90533?style=for-the-badge&logo=erlang&logoColor=white"/>
 <img src="https://img.shields.io/badge/ocaml-EC6813?style=for-the-badge&logo=ocaml&logoColor=white"/>
 <img src="https://img.shields.io/badge/crystal-000000?style=for-the-badge&logo=crystal&logoColor=white"/>
+</div>
+
+**Esoteric & "why does this exist" languages**
+
+The Brainfuck kernel above wasn't a one-off. If it's on the [esolang wiki](https://esolangs.org), someone here has probably opened a terminal and regretted it.
+
+<div align="center">
+<img src="https://img.shields.io/badge/malbolge-2b0000?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/whitespace-1a1a1a?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/befunge-3a3a3a?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/intercal-4b0082?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/piet-e91e63?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/lolcode-ffcc00?style=for-the-badge&logoColor=black"/>
+<img src="https://img.shields.io/badge/chef-8b4513?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/shakespeare-6a0dad?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/ook!-ff8c00?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/unlambda-006400?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/befunge__98-555555?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/false-000080?style=for-the-badge"/>
+</div>
+
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=13&duration=3200&pause=1100&color=8A2BE2&center=true&vCenter=true&width=650&lines=Malbolge+took+us+longer+to+read+than+write+in;yes%2C+we+know+most+Malbolge+programs+are+found%2C+not+written;we+still+count+it" alt="esolang typing" />
 </div>
 
 **Frontend & UI**
@@ -156,6 +183,10 @@ If a language, framework, or runtime exists and we haven't touched it yet, give 
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:302b63,100:0f0c29&height=3&section=header" width="100%"/>
 
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:8A2BE2,100:09090B&height=80&section=header&text=AGENTS%20THAT%20ACTUALLY%20DO%20THINGS&fontSize=22&fontColor=ffffff&animation=twinkling" width="100%"/>
+</div>
+
 ## <img src="https://cdn.simpleicons.org/openai/74AA9C" width="26"/> AI agents & autonomous tools
 
 | Project | What it does |
@@ -170,6 +201,10 @@ If a language, framework, or runtime exists and we haven't touched it yet, give 
 | [legiontret](https://github.com/deathlegionteamlk/legiontret) | Run 30+ open models locally: Llama 3, Gemma 3, Mistral, DeepSeek R1. No GPU rental needed. |
 | [DeepFaceReal-Physics](https://github.com/deathlegionteamlk/DeepFaceReal-Physics) | Real-time deepfake detection with full body tracking, physics sim, parallax backgrounds, and an LLM that talks back. |
 | [LEGIONGASPER](https://github.com/deathlegionteamlk/LEGIONGASPER) | Early-stage agent tooling. Still figuring out what it wants to be. |
+
+<div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="90"/>
+</div>
 
 <br/>
 
@@ -186,6 +221,7 @@ If a language, framework, or runtime exists and we haven't touched it yet, give 
 
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:DC2626,100:09090B&height=90&section=header&text=LOW-LEVEL%20TERRITORY&fontSize=26&fontColor=ffffff&animation=fadeIn" width="100%"/>
+<img src="https://user-images.githubusercontent.com/74038190/213911110-aedbef38-a29f-4b6b-a65c-11608b4f75a5.gif" width="80"/>
 </div>
 
 ## <img src="https://cdn.simpleicons.org/linux/FCC624" width="26"/> OS, kernels & low-level
