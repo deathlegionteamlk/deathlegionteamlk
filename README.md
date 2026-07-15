@@ -1,4 +1,4 @@
-<div align="center">
+**<div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,40:1a0000,80:3d0000,100:ff0033&height=230&section=header&text=DEATH%20LEGION&fontSize=76&fontColor=ff0033&animation=fadeIn&fontAlignY=42&desc=Sri%20Lankan%20dev%20collective%20%E2%80%94%20full-stack%2C%20kernels%2C%20agents&descAlignY=64&descColor=ff6666&descSize=15&stroke=ff0033&strokeWidth=1" width="100%"/>
 
@@ -84,3 +84,4 @@ Open to collabs on AI agents, kernel/OS work, and Android tooling — open an is
 <img src="https://capsule-render.vercel.app/api?type=venom&color=0:ff0033,50:3d0000,100:000000&height=110&section=footer"/>
 
 </div>
+**
