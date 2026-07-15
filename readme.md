@@ -15,6 +15,8 @@ open source contributors Sri Lanka, indie dev collective, hacker collective Sri 
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=DEATH%20LEGION%20TEAM&fontSize=48&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Sri%20Lanka%20%7C%20Full-Stack%20Devs%20%7C%20OS%20Kernel%20Builders%20%7C%20AI%20Agents&descAlignY=58&descSize=16" width="100%"/>
 
+<img src="https://raw.githubusercontent.com/blackcater/blackcater/main/images/Hi.gif" width="28"/>
+
 <a href="https://github.com/deathlegionteamlk">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=8A2BE2&center=true&vCenter=true&multiline=true&width=700&height=100&lines=52+public+repos.+Zero+chill.;Kernels%2C+agents%2C+languages%2C+panels.;We+ship+first%2C+document+later.;Sri+Lanka%27s+most+chaotic+build+log." alt="typing-svg" />
 </a>
@@ -66,25 +68,89 @@ If you're searching for **Sri Lankan developers on GitHub**, **open source AI ag
 
 <br/>
 
-## <img src="https://cdn.simpleicons.org/rust/dea584" width="26"/> Stack we actually touch
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:302b63,100:0f0c29&height=3&section=header" width="100%"/>
+
+## <img src="https://cdn.simpleicons.org/rust/dea584" width="26"/> Stack we actually touch (and a lot we've at least poked at)
+
+We're not a "pick one stack and master it" kind of team. Every repo in this org picked its own tools for its own reasons, and after 52 of them the combined list gets a little absurd. Here's basically all of it.
 
 <div align="center">
-
-<img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
-<img src="https://img.shields.io/badge/cpp-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
-<img src="https://img.shields.io/badge/go-00ADD8?style=for-the-badge&logo=go&logoColor=white"/>
-<img src="https://img.shields.io/badge/rust-000000?style=for-the-badge&logo=rust&logoColor=white"/>
-<img src="https://img.shields.io/badge/kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white"/>
-<img src="https://img.shields.io/badge/php-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
-<img src="https://img.shields.io/badge/nextdotjs-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
-<img src="https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-
-<br/><br/>
-
-<img src="https://skillicons.dev/icons?i=python,ts,cpp,go,rust,kotlin,php,nextjs,docker,react,idris,linux&theme=dark" />
-
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=2200&pause=900&color=FBBF24&center=true&vCenter=true&width=650&lines=if+it+has+a+compiler%2C+we've+probably+tried+it;polyglot+by+accident%2C+not+by+plan" alt="stack typing" />
 </div>
+
+**Languages**
+
+<div align="center">
+<img src="https://skillicons.dev/icons?i=python,ts,js,cpp,c,go,rust,kotlin,java,php,swift,dart,ruby,scala,haskell,elixir,r,lua,perl,julia,clojure,nim,zig,csharp,fsharp&theme=dark" />
+</div>
+
+<div align="center">
+<img src="https://img.shields.io/badge/idris-1e1e1e?style=for-the-badge&logo=haskell&logoColor=white"/>
+<img src="https://img.shields.io/badge/brainfuck-000000?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/assembly-6E4C13?style=for-the-badge&logo=assemblyscript&logoColor=white"/>
+<img src="https://img.shields.io/badge/erlang-A90533?style=for-the-badge&logo=erlang&logoColor=white"/>
+<img src="https://img.shields.io/badge/ocaml-EC6813?style=for-the-badge&logo=ocaml&logoColor=white"/>
+<img src="https://img.shields.io/badge/crystal-000000?style=for-the-badge&logo=crystal&logoColor=white"/>
+</div>
+
+**Frontend & UI**
+
+<div align="center">
+<img src="https://skillicons.dev/icons?i=react,vue,svelte,angular,nextjs,nuxt,html,css,sass,tailwind,vite,webpack,solidjs,astro,threejs,electron,flutter&theme=dark" />
+</div>
+
+**Backend & frameworks**
+
+<div align="center">
+<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,django,flask,spring,laravel,rails,nestjs,graphql,bun,deno&theme=dark" />
+</div>
+
+**Mobile**
+
+<div align="center">
+<img src="https://skillicons.dev/icons?i=kotlin,java,swift,flutter,dart,androidstudio,react&theme=dark" />
+</div>
+
+**Databases & storage**
+
+<div align="center">
+<img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,mongodb,redis,firebase,supabase,cassandra,elasticsearch,neo4j&theme=dark" />
+</div>
+
+**DevOps, cloud & infra**
+
+<div align="center">
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,gcp,azure,nginx,linux,bash,git,github,gitlab,terraform,ansible,vercel,netlify,cloudflare,githubactions&theme=dark" />
+</div>
+
+**AI / ML**
+
+<div align="center">
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,scikitlearn&theme=dark" />
+<img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white"/>
+<img src="https://img.shields.io/badge/ONNX-005CED?style=for-the-badge&logo=onnx&logoColor=white"/>
+<img src="https://img.shields.io/badge/GGML%20%2F%20llama.cpp-000000?style=for-the-badge"/>
+</div>
+
+**Systems & low-level**
+
+<div align="center">
+<img src="https://skillicons.dev/icons?i=c,cpp,rust,go,idris,linux&theme=dark" />
+<img src="https://img.shields.io/badge/QEMU-FF6600?style=for-the-badge&logo=qemu&logoColor=white"/>
+<img src="https://img.shields.io/badge/x86__64%20ASM-6E4C13?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/AIDL%20%2F%20Binder-3DDC84?style=for-the-badge&logo=android&logoColor=white"/>
+</div>
+
+**Editors, shells & everyday tools**
+
+<div align="center">
+<img src="https://skillicons.dev/icons?i=vscode,neovim,vim,tmux,postman,figma,idea,pycharm,androidstudio&theme=dark" />
+</div>
+
+<br/>
+
+If a language, framework, or runtime exists and we haven't touched it yet, give it time. Someone on the team probably has a half-finished branch for it already.
 
 <br/>
 
