@@ -37,6 +37,10 @@ open source contributors Sri Lanka, indie dev collective, hacker collective Sri 
 
 <img src="https://user-images.githubusercontent.com/74038190/212751818-13da6fd2-27ca-45c4-9c64-3940ccfa6fd3.gif" width="320"/>
 
+<br/>
+
+<img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.gif" width="500"/>
+
 </div>
 
 <br/>
@@ -45,11 +49,11 @@ open source contributors Sri Lanka, indie dev collective, hacker collective Sri 
 
 ## <img src="https://cdn.simpleicons.org/aboutdotme/FF6B6B" width="26"/> Who we are
 
-We're a small crew out of Sri Lanka building whatever we're curious about that week: OS kernels, LLM agents, a homemade programming language, an emulator, a browser, a Firebase clone. No roadmap, no product-market fit, just repos.
+We're a small crew out of Sri Lanka. Some weeks we're deep in an OS kernel, some weeks it's an LLM agent, some weeks somebody just wants to write a browser. There isn't a roadmap. We build what's interesting to us that week and push it up.
 
-Most of it is unlicensed or MIT'd and half-documented. If something looks unfinished, it probably is. We get back to it eventually, or we don't, and we start something else instead. That's kind of the whole method.
+A lot of it sits half-documented. If a repo looks unfinished, it probably is — we either circle back eventually or we don't, and either way something new usually shows up before the old thing gets closed out. Not exactly a method, but it's ours.
 
-If you're searching for **Sri Lankan developers on GitHub**, **open source AI agents**, **custom OS kernels**, **game server panels**, or a **Sri Lanka-based dev collective** in general, you've found the right org.
+If you landed here looking for **Sri Lankan developers on GitHub**, **open source AI agents**, **custom OS kernels**, **game server panels**, or just a **Sri Lanka-based dev collective**, you're in the right place.
 
 <div align="center">
 
@@ -72,11 +76,17 @@ If you're searching for **Sri Lankan developers on GitHub**, **open source AI ag
 
 <br/>
 
+<div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2f4ba0-5e37-4835-a698-0dbe098d1249.gif" width="400"/>
+</div>
+
+<br/>
+
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:302b63,100:0f0c29&height=3&section=header" width="100%"/>
 
 ## <img src="https://cdn.simpleicons.org/rust/dea584" width="26"/> Stack we actually touch (and a lot we've at least poked at)
 
-We're not a "pick one stack and master it" kind of team. Every repo in this org picked its own tools for its own reasons, and after 52 of them the combined list gets a little absurd. Here's basically all of it.
+We didn't pick one stack and stick to it. Each repo grabbed whatever tool made sense at the time, and after 52 of them the combined list gets a little ridiculous. Here's most of it, honestly.
 
 <div align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=2200&pause=900&color=FBBF24&center=true&vCenter=true&width=650&lines=if+it+has+a+compiler%2C+we've+probably+tried+it;polyglot+by+accident%2C+not+by+plan" alt="stack typing" />
@@ -99,7 +109,7 @@ We're not a "pick one stack and master it" kind of team. Every repo in this org 
 
 **Esoteric & "why does this exist" languages**
 
-The Brainfuck kernel above wasn't a one-off. If it's on the [esolang wiki](https://esolangs.org), someone here has probably opened a terminal and regretted it.
+The Brainfuck kernel wasn't a one-off, it was a warning sign. If it's on the [esolang wiki](https://esolangs.org), someone here has opened a terminal for it and lived to regret it.
 
 <div align="center">
 <img src="https://img.shields.io/badge/malbolge-2b0000?style=for-the-badge"/>
@@ -177,9 +187,13 @@ The Brainfuck kernel above wasn't a one-off. If it's on the [esolang wiki](https
 
 <br/>
 
-If a language, framework, or runtime exists and we haven't touched it yet, give it time. Someone on the team probably has a half-finished branch for it already.
+If it's a language, framework, or runtime and we haven't touched it yet — give it a month. Someone on the team almost certainly has a half-finished branch for it sitting somewhere.
 
 <br/>
+
+<div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/221857984-79eaa71f-b91f-4e0f-b8ba-b83d17c02e1e.gif" width="250"/>
+</div>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:302b63,100:0f0c29&height=3&section=header" width="100%"/>
 
@@ -191,19 +205,20 @@ If a language, framework, or runtime exists and we haven't touched it yet, give 
 
 | Project | What it does |
 |---|---|
-| [deathlegion-benchmark](https://github.com/deathlegionteamlk/deathlegion-benchmark) | One of the harder coding benchmarks out there. Algorithmic, agentic, adversarial categories, no easy mode. |
+| [deathlegion-benchmark](https://github.com/deathlegionteamlk/deathlegion-benchmark) | One of the harder coding benchmarks out there. Algorithmic, agentic, adversarial categories — no easy mode. |
 | [Fraction](https://github.com/deathlegionteamlk/Fraction) | A computer-use agent that drives a real desktop instead of calling stubbed-out tools. |
-| [herolaw](https://github.com/deathlegionteamlk/herolaw) | A private, fully local AI assistant with OpenClaw-style features. Lobster-themed, for reasons we stand by. |
-| [herodesktop](https://github.com/deathlegionteamlk/herodesktop) | A streamable, sandboxed virtual desktop built specifically so AI agents have somewhere safe to click around. |
-| [legion-code](https://github.com/deathlegionteamlk/legion-code) | An autonomous coding agent framework with the safety rails removed on purpose. |
-| [legionhbt](https://github.com/deathlegionteamlk/legionhbt) | An autonomous pentesting ecosystem. Points itself at a target and works through the checklist. |
-| [legion-coder-v1](https://github.com/deathlegionteamlk/legion-coder-v1) | An AI-powered code editor: completion, refactors, full project scaffolding in one agent loop. |
-| [legiontret](https://github.com/deathlegionteamlk/legiontret) | Run 30+ open models locally: Llama 3, Gemma 3, Mistral, DeepSeek R1. No GPU rental needed. |
+| [herolaw](https://github.com/deathlegionteamlk/herolaw) | A private, fully local AI assistant with OpenClaw-style features. Lobster-themed, and we stand by that. |
+| [herodesktop](https://github.com/deathlegionteamlk/herodesktop) | A streamable, sandboxed virtual desktop, built so agents have somewhere safe to click around without breaking anything real. |
+| [legion-code](https://github.com/deathlegionteamlk/legion-code) | An autonomous coding agent framework with the safety rails taken off on purpose. |
+| [legionhbt](https://github.com/deathlegionteamlk/legionhbt) | An autonomous pentesting ecosystem. Point it at a target and it works through the checklist. |
+| [legion-coder-v1](https://github.com/deathlegionteamlk/legion-coder-v1) | An AI-powered code editor — completion, refactors, full project scaffolding, all in one agent loop. |
+| [legiontret](https://github.com/deathlegionteamlk/legiontret) | Runs 30+ open models locally: Llama 3, Gemma 3, Mistral, DeepSeek R1. No GPU rental required. |
 | [DeepFaceReal-Physics](https://github.com/deathlegionteamlk/DeepFaceReal-Physics) | Real-time deepfake detection with full body tracking, physics sim, parallax backgrounds, and an LLM that talks back. |
-| [LEGIONGASPER](https://github.com/deathlegionteamlk/LEGIONGASPER) | Early-stage agent tooling. Still figuring out what it wants to be. |
+| [LEGIONGASPER](https://github.com/deathlegionteamlk/LEGIONGASPER) | Early-stage agent tooling. Still figuring out what it wants to be when it grows up. |
 
 <div align="center">
 <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="90"/>
+<img src="https://user-images.githubusercontent.com/74038190/213910281-7ba3ec24-c688-4177-8b12-e2f43862c5f0.gif" width="90"/>
 </div>
 
 <br/>
@@ -215,7 +230,7 @@ If a language, framework, or runtime exists and we haven't touched it yet, give 
 | [leorch](https://github.com/deathlegionteamlk/leorch) | A Rust CLI for people who'd rather script than click. 7 stars in and counting. |
 | [legionrat](https://github.com/deathlegionteamlk/legionrat) | A consent-based Android remote admin tool. Lab devices you own, full stop. |
 | [Brainfuck-OS-kernel](https://github.com/deathlegionteamlk/Brainfuck-OS-kernel) | An OS kernel written in Brainfuck. Someone had to. |
-| [Herobine_wa](https://github.com/deathlegionteamlk/Herobine_wa) | A Go utility, still in the "works on our machine" phase. |
+| [Herobine_wa](https://github.com/deathlegionteamlk/Herobine_wa) | A Go utility, still very much in the "works on our machine" phase. |
 
 <br/>
 
@@ -228,7 +243,7 @@ If a language, framework, or runtime exists and we haven't touched it yet, give 
 
 | Project | What it does |
 |---|---|
-| [Herojuk](https://github.com/deathlegionteamlk/Herojuk) | We're calling it the best kernel done yet. Someone has to say it. |
+| [Herojuk](https://github.com/deathlegionteamlk/Herojuk) | Our favorite kernel we've built so far. We'll say it ourselves since no one else will. |
 | [LegionBFOS](https://github.com/deathlegionteamlk/LegionBFOS) | A C-based OS project, sibling to the Brainfuck kernel above. |
 | [legion-idris-kernel](https://github.com/deathlegionteamlk/legion-idris-kernel) | A kernel written in Idris, for the dependently-typed among us. |
 | [LEGION-dns-tunnel](https://github.com/deathlegionteamlk/LEGION-dns-tunnel) | A simple DNS-powered VPN tunnel, written in Kotlin. |
@@ -245,9 +260,9 @@ If a language, framework, or runtime exists and we haven't touched it yet, give 
 | [herio](https://github.com/deathlegionteamlk/herio) | A lightweight Python library that turns any function or model into an instant web UI. |
 | [herodb](https://github.com/deathlegionteamlk/herodb) | A distributed NoSQL document store, written from scratch in C++, built to actually shard. |
 | [herobase](https://github.com/deathlegionteamlk/herobase) | An open-source Firebase alternative running on Postgres. |
-| [herokil](https://github.com/deathlegionteamlk/herokil) | A lightweight Python web framework. Simple enough for a first project, flexible enough to keep. |
+| [herokil](https://github.com/deathlegionteamlk/herokil) | A lightweight Python web framework. Simple enough for a first project, flexible enough to keep using. |
 | [urmom-lang](https://github.com/deathlegionteamlk/urmom-lang) | A modern, concurrent programming language. Yes, that's really the name. |
-| [legionnative](https://github.com/deathlegionteamlk/legionnative) | A TypeScript tooling project, early days. |
+| [legionnative](https://github.com/deathlegionteamlk/legionnative) | A TypeScript tooling project, still early days. |
 | [legionheto](https://github.com/deathlegionteamlk/legionheto) | A Python utility, currently light on docs. |
 | [LEGIONHERCULES](https://github.com/deathlegionteamlk/LEGIONHERCULES) | Live at [legionhercules.pages.dev](https://legionhercules.pages.dev). Python-backed, still evolving. |
 
@@ -259,10 +274,14 @@ If a language, framework, or runtime exists and we haven't touched it yet, give 
 |---|---|
 | [LiyoBoard](https://github.com/deathlegionteamlk/LiyoBoard) | A privacy-first Android keyboard with Sinhala, English, and Tamil support, 500+ fonts, deep theming. |
 | [Legion-K-Player](https://github.com/deathlegionteamlk/Legion-K-Player) | A fast Android emulator with 100+ gaming modules and a custom virtual machine core. |
-| [uytr](https://github.com/deathlegionteamlk/uytr) | A custom Windows Subsystem for Android package builder. Magisk root, Play Services, the works, packaged as a Windows installer. |
+| [uytr](https://github.com/deathlegionteamlk/uytr) | A custom Windows Subsystem for Android package builder — Magisk root, Play Services, the works, packaged as a Windows installer. |
 | [legion-mobile-sandbox](https://github.com/deathlegionteamlk/legion-mobile-sandbox) | A Jupyter-based sandbox for testing mobile-adjacent workflows. |
 
 <br/>
+
+<div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" width="350"/>
+</div>
 
 ## <img src="https://cdn.simpleicons.org/docker/2496ED" width="26"/> Game server panels
 
@@ -287,6 +306,10 @@ If a language, framework, or runtime exists and we haven't touched it yet, give 
 
 <br/>
 
+<div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/238200534-a55edc50-5d19-4a55-a3af-4e34e7a6bce8.gif" width="450"/>
+</div>
+
 ## <img src="https://cdn.simpleicons.org/githubactions/2088FF" width="26"/> Community, meta & fun stuff
 
 | Project | What it does |
@@ -300,7 +323,7 @@ If a language, framework, or runtime exists and we haven't touched it yet, give 
 | [developer-portfolio-template](https://github.com/deathlegionteamlk/developer-portfolio-template) | A clean, dark portfolio template. React, TypeScript, Tailwind, Vite. Built for students and early-career devs. |
 | [srilankan-horror-mod](https://github.com/deathlegionteamlk/srilankan-horror-mod) | A Minecraft Forge 1.20.1 mod pulling from Sri Lankan demonology: 8 demons, jumpscares, a sanity system, 45 custom sounds. |
 | [LANKA-Night-terror](https://github.com/deathlegionteamlk/LANKA-Night-terror) | An early-stage project, description pending. |
-| [deathlegionteamlk](https://github.com/deathlegionteamlk/deathlegionteamlk) | This org's profile repo. The one that renders this page. |
+| [deathlegionteamlk](https://github.com/deathlegionteamlk/deathlegionteamlk) | This org's profile repo — the one rendering this exact page. |
 
 <br/>
 
@@ -308,7 +331,7 @@ If a language, framework, or runtime exists and we haven't touched it yet, give 
 
 ## <img src="https://cdn.simpleicons.org/statuspage/00B140" width="26"/> Activity
 
-We don't really track metrics for anyone but ourselves, but here's the receipts if you're curious:
+We're not chasing metrics for anyone else's benefit, but the receipts are here if you want them:
 
 <div align="center">
 
@@ -336,10 +359,16 @@ We don't really track metrics for anyone but ourselves, but here's the receipts 
 
 <br/>
 
-> Want the commit-snake too? Drop the [platane/snk](https://github.com/Platane/snk) action into this repo's workflows, point it at `deathlegionteamlk`, and commit the generated `github-contribution-grid-snake.svg`. It renders live right here once it exists.
+> Want the commit-snake too? Drop the [platane/snk](https://github.com/Platane/snk) action into this repo's workflows, point it at `deathlegionteamlk`, and commit the generated `github-contribution-grid-snake.svg`. It'll render live right here once it exists.
 
 <div align="center">
 <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="97%"/>
+</div>
+
+<br/>
+
+<div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900"/>
 </div>
 
 <br/>
@@ -348,8 +377,10 @@ We don't really track metrics for anyone but ourselves, but here's the receipts 
 
 <div align="center">
 
-**52 public repos and counting. We build what we're curious about, ship it, then move on to the next thing.**
+**52 public repos and counting. We build what we're curious about, ship it, and move on to the next thing.**
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=4000&pause=1200&color=FBBF24&center=true&vCenter=true&width=500&lines=Thanks+for+scrolling+this+far.;Now+go+star+something.;⚔️+Death+Legion" alt="footer typing" />
+
+<img src="https://raw.githubusercontent.com/blackcater/blackcater/main/images/Hi.gif" width="24"/>
 
 </div>
