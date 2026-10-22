@@ -166,7 +166,6 @@ def hero(name, w=900, h=200):
            f'<rect width="{w}" height="{h}" rx="14" fill="url(#bg)"/><g clip-path="url(#r)" font-family="{MONO}">{"".join(cols)}'
            f'<g font-family="{MONO}">{glitch("#DC2626", 4, 2.4)}{glitch("#22d3ee", -4, 2.9)}'
            f'<text x="{w/2}" y="{h/2+22}" text-anchor="middle" font-size="64" font-weight="800" fill="#fff" textLength="560" lengthAdjust="spacingAndGlyphs" filter="url(#gl)">{title}</text></g>'
-           f'<text x="{w/2}" y="{h-26}" text-anchor="middle" font-size="15" fill="#c39bf5" textLength="420" lengthAdjust="spacingAndGlyphs">SRI LANKA // FULL-STACK // KERNELS // AGENTS</text>'
            f'<rect width="{w}" height="3" fill="#fff" opacity=".08"><animate attributeName="y" values="0;{h}" dur="3.5s" repeatCount="indefinite"/></rect></g>'
            f'<rect x="1" y="1" width="{w-2}" height="{h-2}" rx="14" fill="none" stroke="#8A2BE2" stroke-opacity=".5"><animate attributeName="stroke-opacity" values=".2;.8;.2" dur="3s" repeatCount="indefinite"/></rect></svg>')
     save(name, svg)
@@ -203,7 +202,6 @@ def counters(name):
     save(name, svg)
 
 
-counters('counters.svg')
 
 
 # ---------- orbit ----------
@@ -221,14 +219,14 @@ def orbit(name):
             r = 7 if len(lab) < 4 else 6
             parts.append(f'<g><animateMotion dur="{dur*3}s" begin="-{frac*dur*3:.2f}s" repeatCount="indefinite" path="{d}"/>'
                          f'<circle r="{r+6}" fill="{col}" opacity=".18"><animate attributeName="r" values="{r+3};{r+9};{r+3}" dur="2.4s" repeatCount="indefinite"/></circle>'
-                         f'<circle r="{r}" fill="{col}"/><text y="-{r+8}" text-anchor="middle" font-size="11" fill="#e8dcff" font-weight="700" transform="rotate({-rot})">{escape(lab)}</text></g>')
+                         f'<circle r="{r}" fill="{col}"/></g>')
         parts.append('</g>')
     svg = (f'<svg xmlns="http://www.w3.org/2000/svg" width="{w}" height="{h}" viewBox="0 0 {w} {h}"><defs>'
            '<radialGradient id="c"><stop offset="0" stop-color="#fff"/><stop offset=".35" stop-color="#8A2BE2"/><stop offset="1" stop-color="#8A2BE2" stop-opacity="0"/></radialGradient></defs>'
            f'<rect x="1" y="1" width="{w-2}" height="{h-2}" rx="16" fill="#0b0914" stroke="#8A2BE2" stroke-opacity=".35"/>'
            f'<g font-family="{MONO}">{"".join(parts)}'
            f'<circle cx="{cx}" cy="{cy}" r="34" fill="url(#c)"><animate attributeName="r" values="30;40;30" dur="3s" repeatCount="indefinite"/></circle>'
-           f'<text x="{cx}" y="{cy+4}" text-anchor="middle" font-size="11" font-weight="800" fill="#0b0914">LEGION</text></g></svg>')
+           f'</g></svg>')
     save(name, svg)
 
 
@@ -253,7 +251,7 @@ def proj(p, scale, cx, cy, d=5.0):
     return cx + p[0] * scale * s, cy + p[1] * scale * s
 
 
-def model3d(name, segs, frames, scale, tilt, label, dur=14, double=False, marker=None, W=340, H=340):
+def model3d(name, segs, frames, scale, tilt, label='', dur=14, double=False, marker=None, W=300, H=300, pre=None, spin=1.0):
     cx, cy = W / 2, H / 2
     back_vals, front_vals, mk = [], [], ([], [], [])
     for f in range(frames + 1):
@@ -261,7 +259,9 @@ def model3d(name, segs, frames, scale, tilt, label, dur=14, double=False, marker
         th2 = th if double else 0.0
         back, front = [], []
         for a, b in segs:
-            ra, rb = rot(a, th, tilt, th2), rot(b, th, tilt, th2)
+            if pre:
+                a, b = pre(a, th), pre(b, th)
+            ra, rb = rot(a, th * spin, tilt, th2), rot(b, th * spin, tilt, th2)
             pa, pb = proj(ra, scale, cx, cy), proj(rb, scale, cx, cy)
             seg = f'M{pa[0]:.1f} {pa[1]:.1f}L{pb[0]:.1f} {pb[1]:.1f}'
             back.append(seg)
@@ -272,7 +272,7 @@ def model3d(name, segs, frames, scale, tilt, label, dur=14, double=False, marker
         back_vals.append(''.join(back))
         front_vals.append(''.join(front))
         if marker:
-            rm = rot(marker, th, tilt, th2)
+            rm = rot(marker, th * spin, tilt, th2)
             px, py = proj(rm, scale, cx, cy)
             mk[0].append(f'{px:.1f}')
             mk[1].append(f'{py:.1f}')
@@ -290,7 +290,7 @@ def model3d(name, segs, frames, scale, tilt, label, dur=14, double=False, marker
            f'<ellipse cx="{cx}" cy="{H-40}" rx="90" ry="12" fill="#8A2BE2" opacity=".18"><animate attributeName="rx" values="80;100;80" dur="{dur/3:g}s" repeatCount="indefinite"/></ellipse>'
            f'<path d="{back_vals[0]}" fill="none" stroke="#DC2626" stroke-opacity=".38" stroke-width="1.1" stroke-linecap="round">{anim("d", back_vals)}</path>'
            f'<path d="{front_vals[0]}" fill="none" stroke="#c9a2ff" stroke-width="1.8" stroke-linecap="round" filter="url(#g)">{anim("d", front_vals)}</path>'
-           f'{m}<text x="{cx}" y="{H-14}" text-anchor="middle" font-family="{MONO}" font-size="12" fill="#9b8ac4" letter-spacing="3">{label}</text></svg>')
+           f'{m}</svg>')
     save(name, svg)
 
 
@@ -330,6 +330,80 @@ for lon in range(0, 180, 22):
 la, lo = math.radians(7.5), math.radians(80.7)
 mk = (math.cos(la) * math.cos(lo), -math.sin(la), math.cos(la) * math.sin(lo))
 model3d('3d-globe.svg', segs, 40, 118, 0.38, 'SRI LANKA, ONLINE', 20, marker=tuple(c * 1.0 for c in mk))
+
+
+def near_edges(V, tol=1e-6):
+    m = min(math.dist(V[i], V[j]) for i in range(len(V)) for j in range(i + 1, len(V)))
+    return [(V[i], V[j]) for i in range(len(V)) for j in range(i + 1, len(V)) if abs(math.dist(V[i], V[j]) - m) < tol]
+
+cube = [(x, y, z) for x in (-1, 1) for y in (-1, 1) for z in (-1, 1)]
+model3d('3d-cube.svg', near_edges(cube), 60, 70, 0.5, dur=12, double=True)
+octa = [(1, 0, 0), (-1, 0, 0), (0, 1, 0), (0, -1, 0), (0, 0, 1), (0, 0, -1)]
+model3d('3d-octa.svg', near_edges(octa), 60, 110, 0.4, dur=11)
+p1 = 1 / phi
+dod = [(x, y, z) for x in (-1, 1) for y in (-1, 1) for z in (-1, 1)]
+for a in (-1, 1):
+    for b in (-1, 1):
+        dod += [(0, a * p1, b * phi), (a * p1, b * phi, 0), (a * phi, 0, b * p1)]
+dod = [tuple(c / 1.75 for c in v) for v in dod]
+model3d('3d-dodeca.svg', near_edges(dod, 1e-4), 60, 105, 0.45, dur=15)
+
+# torus
+tsegs = []
+U, Vn = 14, 8
+def tp(u, v):
+    R, r = 1.0, 0.42
+    return ((R + r * math.cos(v)) * math.cos(u) / 1.4, r * math.sin(v) / 1.4, (R + r * math.cos(v)) * math.sin(u) / 1.4)
+for i in range(U):
+    for j in range(Vn):
+        u, v = 2 * math.pi * i / U, 2 * math.pi * j / Vn
+        tsegs.append((tp(u, v), tp(u + 2 * math.pi / U, v)))
+        tsegs.append((tp(u, v), tp(u, v + 2 * math.pi / Vn)))
+model3d("3d-torus.svg", tsegs, 36, 110, 0.7, dur=16, double=True)
+
+# mobius
+msegs = []
+def mp(t, s):
+    k = 1 + s / 2 * math.cos(t / 2)
+    return (k * math.cos(t) / 1.5, k * math.sin(t) / 1.5, s / 2 * math.sin(t / 2) / 1.5)
+T = 32
+for i in range(T):
+    t, t2 = 2 * math.pi * i / T, 2 * math.pi * (i + 1) / T
+    for s in (-1, -.5, 0, .5, 1):
+        msegs.append((mp(t, s), mp(t2, s)))
+    if i % 2 == 0:
+        msegs.append((mp(t, -1), mp(t, 1)))
+model3d("3d-mobius.svg", msegs, 36, 105, 0.55, dur=16)
+
+# pyramid
+pv = [(-1, 1, -1), (1, 1, -1), (1, 1, 1), (-1, 1, 1), (0, -1.2, 0)]
+model3d('3d-pyramid.svg', [(pv[i], pv[(i + 1) % 4]) for i in range(4)] + [(pv[i], pv[4]) for i in range(4)], 60, 62, 0.35, dur=10)
+
+# tesseract (4D rotation, projected to 3D)
+tv = [(x, y, z, w) for x in (-1, 1) for y in (-1, 1) for z in (-1, 1) for w in (-1, 1)]
+tedges = [(a, b) for i, a in enumerate(tv) for b in tv[i + 1:] if sum(p != q for p, q in zip(a, b)) == 1]
+def pre4(p, th):
+    x, y, z, w = p
+    c, s = math.cos(th), math.sin(th)
+    x, w = x * c - w * s, x * s + w * c
+    c2, s2 = math.cos(th), math.sin(th)
+    z, w = z * c2 - w * s2, z * s2 + w * c2
+    k = 1 / (2.6 - w)
+    return (x * k * 1.5, y * k * 1.5, z * k * 1.5)
+model3d('3d-tesseract.svg', tedges, 72, 62, 0.45, dur=18, pre=pre4, spin=0.5)
+
+# dna
+dsegs = []
+n = 48
+def strand(i, off):
+    a = i / 6 * 2 * math.pi / 2 + off
+    return (math.cos(a) * .55, (i / n - .5) * 2.4, math.sin(a) * .55)
+for off in (0, math.pi):
+    for i in range(n):
+        dsegs.append((strand(i, off), strand(i + 1, off)))
+for i in range(0, n + 1, 2):
+    dsegs.append((strand(i, 0), strand(i, math.pi)))
+model3d("3d-dna.svg", dsegs, 48, 78, 0.25, dur=12)
 
 for f in sorted(os.listdir(A)):
     print(f, os.path.getsize(f'{A}/{f}') // 1024, 'KB')
