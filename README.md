@@ -56,7 +56,22 @@ outside typing service, so nothing breaks when somebody else's API goes down. ge
 
 <br/>
 
-<div align="center"><img src="./assets/divider.svg" width="100%" alt=""/></div>
+
+<div align="center"><img src="./assets/anim/flow0.svg" width="100%" alt=""/></div>
+
+<div align="center"><img src="./assets/anim/wave0.svg" width="100%" alt=""/></div>
+
+
+
+
+<div align="center"><img src="./assets/anim/eq0.svg" width="34%" alt=""/></div>
+
+<div align="center"><img src="./assets/anim/particles0.svg" width="100%" alt=""/></div>
+
+
+
+<div align="center"><img src="./assets/anim/spin0.svg" width="56" alt=""/> <img src="./assets/anim/hex0.svg" width="64" alt=""/> <img src="./assets/anim/ping0.svg" width="56" alt=""/> <img src="./assets/anim/dots0.svg" width="64" alt=""/> </div>
+
 
 ## <img src="https://cdn.simpleicons.org/aboutdotme/FF6B6B" width="26"/> Who we are
 
@@ -92,41 +107,45 @@ Looking for Sri Lankan developers on GitHub, open source AI agents, custom kerne
 <div align="center"><img src="./assets/ekg.svg" width="100%" alt=""/></div>
 
 <div align="center">
-
-<img src="./assets/3d-ico.svg" width="24%" alt="rotating icosahedron"/>
-<img src="./assets/3d-knot.svg" width="24%" alt="rotating trefoil knot"/>
-<img src="./assets/3d-globe.svg" width="24%" alt="rotating globe"/>
-<img src="./assets/3d-cube.svg" width="24%" alt="rotating cube"/>
-<img src="./assets/3d-octa.svg" width="24%" alt="rotating octahedron"/>
-<img src="./assets/3d-dodeca.svg" width="24%" alt="rotating dodecahedron"/>
-<img src="./assets/3d-torus.svg" width="24%" alt="rotating torus"/>
-<img src="./assets/3d-mobius.svg" width="24%" alt="rotating mobius strip"/>
-<img src="./assets/3d-pyramid.svg" width="24%" alt="rotating pyramid"/>
-<img src="./assets/3d-tesseract.svg" width="24%" alt="rotating tesseract"/>
-<img src="./assets/3d-dna.svg" width="24%" alt="rotating dna helix"/>
-<img src="./assets/orbit.svg" width="24%" alt="orbiting planets"/>
-
-<br/>
-
-<a href="https://deathlegion.netlify.app/3d/"><img src="https://img.shields.io/badge/%E2%96%B6%20INTERACTIVE%203D-8A2BE2?style=for-the-badge&logo=threedotjs&logoColor=white" alt="interactive 3D scene"/></a>
-
-<br/><br/>
-
 <img src="./assets/gif-radar.gif" width="31%" alt=""/>
 <img src="./assets/gif-waves.gif" width="31%" alt=""/>
 <img src="./assets/gif-glitch.gif" width="31%" alt=""/>
-
 </div>
 
-<div align="center"><img src="./assets/divider.svg" width="100%" alt=""/></div>
+
+<div align="center"><img src="./assets/anim/circuit0.svg" width="100%" alt=""/></div>
+
+<div align="center"><img src="./assets/anim/grid0.svg" width="100%" alt=""/></div>
+
+
+
+
+<div align="center"><img src="./assets/anim/glitch0.svg" width="100%" alt=""/></div>
+
+<div align="center"><img src="./assets/anim/rider0.svg" width="50%" alt=""/></div>
+
+
+
+<div align="center"><img src="./assets/anim/poly0.svg" width="56" alt=""/> <img src="./assets/anim/diamond0.svg" width="52" alt=""/> <img src="./assets/anim/spin1.svg" width="56" alt=""/> <img src="./assets/anim/hex1.svg" width="64" alt=""/> </div>
+
 
 ## <img src="https://cdn.simpleicons.org/rust/dea584" width="26"/> Stack
 
 Nobody picked a stack for this org. Each repo used whatever fit at the time, and after 52 of those the list looks less like a plan and more like a confession.
 
 <div align="center">
+<a href="https://deathlegion.netlify.app/3d/"><img src="./assets/3d-ico.svg" width="260" alt="rotating icosahedron, click for the interactive 3D viewer"/></a>
+</div>
+
+<div align="center">
 <img src="./assets/typing-stack.svg" width="550" alt="polyglot by accident, not by plan"/>
 </div>
+
+
+<div align="center"><img src="./assets/anim/binary0.svg" width="100%" alt=""/></div>
+
+<div align="center"><img src="./assets/anim/flow1.svg" width="100%" alt=""/></div>
+
 
 **Languages**
 
@@ -146,6 +165,12 @@ Nobody picked a stack for this org. Each repo used whatever fit at the time, and
 <div align="center">
 <img src="./assets/ticker.svg" width="100%" alt="languages ticker"/>
 </div>
+
+
+<div align="center"><img src="./assets/anim/wave1.svg" width="100%" alt=""/></div>
+
+<div align="center"><img src="./assets/anim/eq1.svg" width="34%" alt=""/></div>
+
 
 **Esoteric languages**
 
@@ -170,11 +195,23 @@ The Brainfuck kernel wasn't a one-off. If it's on the [esolang wiki](https://eso
 <img src="./assets/typing-eso.svg" width="550" alt="Malbolge"/>
 </div>
 
+
+<div align="center"><img src="./assets/anim/particles1.svg" width="100%" alt=""/></div>
+
+<div align="center"><img src="./assets/anim/circuit1.svg" width="100%" alt=""/></div>
+
+
 **Frontend & UI**
 
 <div align="center">
 <img src="https://skillicons.dev/icons?i=react,vue,svelte,angular,nextjs,nuxt,html,css,sass,tailwind,vite,webpack,solidjs,astro,threejs,electron,flutter&theme=dark" />
 </div>
+
+
+<div align="center"><img src="./assets/anim/grid1.svg" width="100%" alt=""/></div>
+
+<div align="center"><img src="./assets/anim/glitch1.svg" width="100%" alt=""/></div>
+
 
 **Backend & frameworks**
 
@@ -182,11 +219,23 @@ The Brainfuck kernel wasn't a one-off. If it's on the [esolang wiki](https://eso
 <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,django,flask,spring,laravel,rails,nestjs,graphql,bun,deno&theme=dark" />
 </div>
 
+
+<div align="center"><img src="./assets/anim/rider1.svg" width="50%" alt=""/></div>
+
+<div align="center"><img src="./assets/anim/binary1.svg" width="100%" alt=""/></div>
+
+
 **Mobile**
 
 <div align="center">
 <img src="https://skillicons.dev/icons?i=kotlin,java,swift,flutter,dart,androidstudio,react&theme=dark" />
 </div>
+
+
+<div align="center"><img src="./assets/anim/flow2.svg" width="100%" alt=""/></div>
+
+<div align="center"><img src="./assets/anim/wave2.svg" width="100%" alt=""/></div>
+
 
 **Databases & storage**
 
@@ -194,11 +243,23 @@ The Brainfuck kernel wasn't a one-off. If it's on the [esolang wiki](https://eso
 <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,mongodb,redis,firebase,supabase,cassandra,elasticsearch,neo4j&theme=dark" />
 </div>
 
+
+<div align="center"><img src="./assets/anim/eq2.svg" width="34%" alt=""/></div>
+
+<div align="center"><img src="./assets/anim/particles2.svg" width="100%" alt=""/></div>
+
+
 **DevOps, cloud & infra**
 
 <div align="center">
 <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,gcp,azure,nginx,linux,bash,git,github,gitlab,terraform,ansible,vercel,netlify,cloudflare,githubactions&theme=dark" />
 </div>
+
+
+<div align="center"><img src="./assets/anim/circuit2.svg" width="100%" alt=""/></div>
+
+<div align="center"><img src="./assets/anim/grid2.svg" width="100%" alt=""/></div>
+
 
 **AI / ML**
 
@@ -210,6 +271,12 @@ The Brainfuck kernel wasn't a one-off. If it's on the [esolang wiki](https://eso
 <img src="https://img.shields.io/badge/GGML%20%2F%20llama.cpp-000000?style=for-the-badge"/>
 </div>
 
+
+<div align="center"><img src="./assets/anim/glitch2.svg" width="100%" alt=""/></div>
+
+<div align="center"><img src="./assets/anim/rider2.svg" width="50%" alt=""/></div>
+
+
 **Systems & low-level**
 
 <div align="center">
@@ -219,6 +286,12 @@ The Brainfuck kernel wasn't a one-off. If it's on the [esolang wiki](https://eso
 <img src="https://img.shields.io/badge/x86__64%20ASM-6E4C13?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/AIDL%20%2F%20Binder-3DDC84?style=for-the-badge&logo=android&logoColor=white"/>
 </div>
+
+
+<div align="center"><img src="./assets/anim/binary2.svg" width="100%" alt=""/></div>
+
+<div align="center"><img src="./assets/anim/flow3.svg" width="100%" alt=""/></div>
+
 
 **Editors & tools**
 
@@ -237,11 +310,26 @@ If we haven't touched a language or framework yet, give it a month. Somebody has
 <img src="https://user-images.githubusercontent.com/74038190/221857984-79eaa71f-b91f-4e0f-b8ba-b83d17c02e1e.gif" width="220"/>
 </div>
 
-<div align="center"><img src="./assets/divider.svg" width="100%" alt=""/></div>
+
+<div align="center"><img src="./assets/anim/wave3.svg" width="100%" alt=""/></div>
+
+<div align="center"><img src="./assets/anim/eq3.svg" width="34%" alt=""/></div>
+
+
 
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:8A2BE2,100:09090B&height=80&section=header&text=AGENTS%20THAT%20ACTUALLY%20DO%20THINGS&fontSize=22&fontColor=ffffff&animation=twinkling" width="100%"/>
 </div>
+
+
+<div align="center"><img src="./assets/anim/particles3.svg" width="100%" alt=""/></div>
+
+<div align="center"><img src="./assets/anim/circuit3.svg" width="100%" alt=""/></div>
+
+
+
+<div align="center"><img src="./assets/anim/ping1.svg" width="56" alt=""/> <img src="./assets/anim/dots1.svg" width="64" alt=""/> <img src="./assets/anim/poly1.svg" width="56" alt=""/> <img src="./assets/anim/diamond1.svg" width="52" alt=""/> </div>
+
 
 ## <img src="https://cdn.simpleicons.org/openai/74AA9C" width="26"/> AI agents & autonomous tools
 
@@ -258,12 +346,28 @@ If we haven't touched a language or framework yet, give it a month. Somebody has
 | [DeepFaceReal-Physics](https://github.com/deathlegionteamlk/DeepFaceReal-Physics) | Real-time deepfake detection with full body tracking, physics sim, parallax backgrounds and an LLM that talks back. |
 | [LEGIONGASPER](https://github.com/deathlegionteamlk/LEGIONGASPER) | Early agent tooling. Still figuring out what it wants to be. |
 
+<div align="center"><img src="./assets/anim/grid3.svg" width="100%" alt=""/></div>
+
+<div align="center"><img src="./assets/anim/glitch3.svg" width="100%" alt=""/></div>
+
+
+
 <div align="center">
 <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="90"/>
 <img src="https://user-images.githubusercontent.com/74038190/213910281-7ba3ec24-c688-4177-8b12-e2f43862c5f0.gif" width="90"/>
 </div>
 
 <br/>
+
+
+<div align="center"><img src="./assets/anim/rider3.svg" width="50%" alt=""/></div>
+
+<div align="center"><img src="./assets/anim/binary3.svg" width="100%" alt=""/></div>
+
+
+
+<div align="center"><img src="./assets/anim/spin2.svg" width="56" alt=""/> <img src="./assets/anim/hex2.svg" width="64" alt=""/> <img src="./assets/anim/ping2.svg" width="56" alt=""/> <img src="./assets/anim/dots2.svg" width="64" alt=""/> </div>
+
 
 ## <img src="https://cdn.simpleicons.org/hackthebox/9FEF00" width="26"/> Security & offensive tooling
 
@@ -274,12 +378,28 @@ If we haven't touched a language or framework yet, give it a month. Somebody has
 | [Brainfuck-OS-kernel](https://github.com/deathlegionteamlk/Brainfuck-OS-kernel) | An OS kernel in Brainfuck. Someone had to. |
 | [Herobine_wa](https://github.com/deathlegionteamlk/Herobine_wa) | A Go utility that works on our machines. |
 
+<div align="center"><img src="./assets/anim/flow4.svg" width="100%" alt=""/></div>
+
+<div align="center"><img src="./assets/anim/wave4.svg" width="100%" alt=""/></div>
+
+
+
 <br/>
 
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:DC2626,100:09090B&height=90&section=header&text=LOW-LEVEL%20TERRITORY&fontSize=26&fontColor=ffffff&animation=fadeIn" width="100%"/>
 <img src="https://user-images.githubusercontent.com/74038190/213911110-aedbef38-a29f-4b6b-a65c-11608b4f75a5.gif" width="80"/>
 </div>
+
+
+<div align="center"><img src="./assets/anim/eq4.svg" width="34%" alt=""/></div>
+
+<div align="center"><img src="./assets/anim/particles4.svg" width="100%" alt=""/></div>
+
+
+
+<div align="center"><img src="./assets/anim/poly2.svg" width="56" alt=""/> <img src="./assets/anim/diamond2.svg" width="52" alt=""/> <img src="./assets/anim/spin3.svg" width="56" alt=""/> <img src="./assets/anim/hex3.svg" width="64" alt=""/> </div>
+
 
 ## <img src="https://cdn.simpleicons.org/linux/FCC624" width="26"/> OS, kernels & low-level
 
@@ -290,7 +410,23 @@ If we haven't touched a language or framework yet, give it a month. Somebody has
 | [legion-idris-kernel](https://github.com/deathlegionteamlk/legion-idris-kernel) | A kernel written in Idris, for the dependently typed. |
 | [LEGION-dns-tunnel](https://github.com/deathlegionteamlk/LEGION-dns-tunnel) | A simple DNS-based VPN tunnel in Kotlin. |
 
+<div align="center"><img src="./assets/anim/circuit4.svg" width="100%" alt=""/></div>
+
+<div align="center"><img src="./assets/anim/grid4.svg" width="100%" alt=""/></div>
+
+
+
 <br/>
+
+
+<div align="center"><img src="./assets/anim/glitch4.svg" width="100%" alt=""/></div>
+
+<div align="center"><img src="./assets/anim/rider4.svg" width="50%" alt=""/></div>
+
+
+
+<div align="center"><img src="./assets/anim/ping3.svg" width="56" alt=""/> <img src="./assets/anim/dots3.svg" width="64" alt=""/> <img src="./assets/anim/poly3.svg" width="56" alt=""/> <img src="./assets/anim/diamond3.svg" width="52" alt=""/> </div>
+
 
 ## <img src="https://cdn.simpleicons.org/gnubash/4EAA25" width="26"/> Dev tools & frameworks
 
@@ -308,7 +444,23 @@ If we haven't touched a language or framework yet, give it a month. Somebody has
 | [legionheto](https://github.com/deathlegionteamlk/legionheto) | A Python utility. Light on docs. |
 | [LEGIONHERCULES](https://github.com/deathlegionteamlk/LEGIONHERCULES) | Live at [legionhercules.pages.dev](https://legionhercules.pages.dev). Python backend, still changing. |
 
+<div align="center"><img src="./assets/anim/binary4.svg" width="100%" alt=""/></div>
+
+<div align="center"><img src="./assets/anim/flow5.svg" width="100%" alt=""/></div>
+
+
+
 <br/>
+
+
+<div align="center"><img src="./assets/anim/wave5.svg" width="100%" alt=""/></div>
+
+<div align="center"><img src="./assets/anim/eq5.svg" width="34%" alt=""/></div>
+
+
+
+<div align="center"><img src="./assets/anim/spin4.svg" width="56" alt=""/> <img src="./assets/anim/hex4.svg" width="64" alt=""/> <img src="./assets/anim/ping4.svg" width="56" alt=""/> <img src="./assets/anim/dots4.svg" width="64" alt=""/> </div>
+
 
 ## <img src="https://cdn.simpleicons.org/android/3DDC84" width="26"/> Android & mobile
 
@@ -319,11 +471,27 @@ If we haven't touched a language or framework yet, give it a month. Somebody has
 | [uytr](https://github.com/deathlegionteamlk/uytr) | A custom Windows Subsystem for Android package builder with Magisk root and Play Services, packaged as a Windows installer. |
 | [legion-mobile-sandbox](https://github.com/deathlegionteamlk/legion-mobile-sandbox) | A Jupyter sandbox for testing mobile-adjacent workflows. |
 
+<div align="center"><img src="./assets/anim/particles5.svg" width="100%" alt=""/></div>
+
+<div align="center"><img src="./assets/anim/circuit5.svg" width="100%" alt=""/></div>
+
+
+
 <br/>
 
 <div align="center">
 <img src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" width="320"/>
 </div>
+
+
+<div align="center"><img src="./assets/anim/grid5.svg" width="100%" alt=""/></div>
+
+<div align="center"><img src="./assets/anim/glitch5.svg" width="100%" alt=""/></div>
+
+
+
+<div align="center"><img src="./assets/anim/poly4.svg" width="56" alt=""/> <img src="./assets/anim/diamond4.svg" width="52" alt=""/> <img src="./assets/anim/spin5.svg" width="56" alt=""/> <img src="./assets/anim/hex5.svg" width="64" alt=""/> </div>
+
 
 ## <img src="https://cdn.simpleicons.org/docker/2496ED" width="26"/> Game server panels
 
@@ -334,7 +502,23 @@ If we haven't touched a language or framework yet, give it a month. Somebody has
 | [ptredactyl-installer](https://github.com/deathlegionteamlk/ptredactyl-installer) | A shell installer that gets a panel stack running without the manual setup. |
 | [Legion-uytr](https://github.com/deathlegionteamlk/Legion-uytr) | A TypeScript companion project for the same panel ecosystem. |
 
+<div align="center"><img src="./assets/anim/rider5.svg" width="50%" alt=""/></div>
+
+<div align="center"><img src="./assets/anim/flow6.svg" width="100%" alt=""/></div>
+
+
+
 <br/>
+
+
+<div align="center"><img src="./assets/anim/wave6.svg" width="100%" alt=""/></div>
+
+<div align="center"><img src="./assets/anim/eq6.svg" width="34%" alt=""/></div>
+
+
+
+<div align="center"><img src="./assets/anim/ping5.svg" width="56" alt=""/> <img src="./assets/anim/dots5.svg" width="64" alt=""/> <img src="./assets/anim/poly5.svg" width="56" alt=""/> <img src="./assets/anim/diamond5.svg" width="52" alt=""/> </div>
+
 
 ## <img src="https://cdn.simpleicons.org/vercel/ffffff" width="26"/> Web platforms & automation
 
@@ -346,11 +530,27 @@ If we haven't touched a language or framework yet, give it a month. Somebody has
 | [legion-hyt-js](https://github.com/deathlegionteamlk/legion-hyt-js) | A TypeScript web utility from the wider Legion tooling set. |
 | [HeroBrowser](https://github.com/deathlegionteamlk/HeroBrowser) | A Chromium-based browser with AI features and an Opera GX-inspired UI. |
 
+<div align="center"><img src="./assets/anim/particles6.svg" width="100%" alt=""/></div>
+
+<div align="center"><img src="./assets/anim/circuit6.svg" width="100%" alt=""/></div>
+
+
+
 <br/>
 
 <div align="center">
 <img src="https://user-images.githubusercontent.com/74038190/238200534-a55edc50-5d19-4a55-a3af-4e34e7a6bce8.gif" width="380"/>
 </div>
+
+
+<div align="center"><img src="./assets/anim/glitch6.svg" width="100%" alt=""/></div>
+
+<div align="center"><img src="./assets/anim/rider6.svg" width="50%" alt=""/></div>
+
+
+
+<div align="center"><img src="./assets/anim/spin6.svg" width="56" alt=""/> <img src="./assets/anim/hex6.svg" width="64" alt=""/> <img src="./assets/anim/ping6.svg" width="56" alt=""/> <img src="./assets/anim/dots6.svg" width="64" alt=""/> </div>
+
 
 ## <img src="https://cdn.simpleicons.org/githubactions/2088FF" width="26"/> Community, meta & fun stuff
 
@@ -367,9 +567,25 @@ If we haven't touched a language or framework yet, give it a month. Somebody has
 | [LANKA-Night-terror](https://github.com/deathlegionteamlk/LANKA-Night-terror) | Early stage. Description pending. |
 | [deathlegionteamlk](https://github.com/deathlegionteamlk/deathlegionteamlk) | This org's profile repo, the one rendering this page. |
 
+<div align="center"><img src="./assets/anim/flow7.svg" width="100%" alt=""/></div>
+
+<div align="center"><img src="./assets/anim/wave7.svg" width="100%" alt=""/></div>
+
+
+
 <br/>
 
 <div align="center"><img src="./assets/ekg-gold.svg" width="100%" alt=""/></div>
+
+
+<div align="center"><img src="./assets/anim/eq7.svg" width="34%" alt=""/></div>
+
+<div align="center"><img src="./assets/anim/particles7.svg" width="100%" alt=""/></div>
+
+
+
+<div align="center"><img src="./assets/anim/poly6.svg" width="56" alt=""/> <img src="./assets/anim/spin7.svg" width="56" alt=""/> <img src="./assets/anim/hex7.svg" width="64" alt=""/> <img src="./assets/anim/ping7.svg" width="56" alt=""/> </div>
+
 
 ## <img src="https://cdn.simpleicons.org/statuspage/00B140" width="26"/> Activity
 
@@ -403,11 +619,22 @@ We're not chasing metrics. The numbers are here if you want them:
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700"/>
 </div>
 
-<div align="center"><img src="./assets/divider.svg" width="100%" alt=""/></div>
+
+<div align="center"><img src="./assets/anim/circuit7.svg" width="100%" alt=""/></div>
+
+<div align="center"><img src="./assets/anim/glitch7.svg" width="100%" alt=""/></div>
+
+
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=150&section=footer&animation=twinkling" width="100%"/>
 
 <div align="center">
+
+
+<div align="center"><img src="./assets/anim/wave8.svg" width="100%" alt=""/></div>
+
+<div align="center"><img src="./assets/anim/wave9.svg" width="100%" alt=""/></div>
+
 
 **52 public repos and counting. We build what we're curious about, ship it, and move on.**
 
